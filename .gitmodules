@@ -1,3 +1,7 @@
 [submodule "personal-site"]
 	path = personal-site
 	url = https://github.com/wisnuwiry/personal-site.git
+
+[submodule "themes/personal-site"]
+	path = personal-site
+	url = https://github.com/wisnuwiry/personal-site.git
