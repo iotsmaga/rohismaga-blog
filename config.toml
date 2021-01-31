@@ -8,19 +8,19 @@ summaryLength                 = 10
   name                        = "Rohis SMA Negeri 3 Semarang"
   bio                         = "Salah satu divisi yang ada di Rohis SMA Negeri 3 Semarang yang bertugas untuk mempublikasikan kegiatan dakwah Rohismaga. Bukan yang paling benar, apalagi tenar, cuma mau ngajak untuk sama-sama belajar"
   avatar                      = "img/logo-rohis.png"
-  job                         = "Software Engineer"
+  job                         = "Organisasi"
   gender                      = "male"
   email                       = "rohismaga17@gmail.com"
-  donate                      = true
+  donate                      = false
   
 [Params]
   description                 = "Website Blog yang berisi informasi mengenai Rohis SMA Negeri 3 Semarang" # Site Description. Used in meta description
-  images                      = ["img/logo.jpg"]
+  images                      = ["img/logo-rohis.png"]
   copyright                   = "Rohismaga X IOT SMAGA" # Copyright holder, otherwise will use .Site.Title
   opengraph                   = true # Enable OpenGraph if true
   twitter_cards               = true # Enable Twitter Cards if true
-  mainSections                = ["post", "snippet"] # Set main page sections
-  projectSections             = ["project"] # Set main page sections
+  mainSections                = ["post", "events"] # Set main page sections
+  projectSections             = ["pengurus"] # Set main page sections
   dateFormat                  = "January 02, 2006" # Change the format of dates
   # customCSS                 = ["css/custom.css"] # Include custom CSS files
   customJS                    = []
@@ -43,7 +43,7 @@ summaryLength                 = 10
   endMessagePost              = "Semoga artikel ini bermanfaat. Jika terdapat kesalahan penulisan, typo, ataupun juga kurang sesuai dalam penulisan, bantu Saya"
   editContentPageLink         = "https://github.com/wisnuwiry/blog-v2/edit/master/content/"
   formspreeId                 = "mzbkwbkb"
-  subTitle                      = ""
+  subTitle                    = "Organisasi Islam di SMA Negeri 3 Semarang"
 
 [Params.Hero]
   title                       = "🕌 ROHISMAGA"
@@ -58,7 +58,7 @@ summaryLength                 = 10
   previewOnly                 = false # Show only preview featured image
 
 [Params.Comments]
-  repository                  = "wisnuwiry/blog-v2"
+  repository                  = "iotsmaga/rohismaga-blog"
 
 # Navigation bar
 [menu]
