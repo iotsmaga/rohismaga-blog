@@ -11,5 +11,22 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: series
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: series
+  description: 'Sebagai tag untuk setiap seri post yang dibuat, misal Serial Serial
+    #OneMinuteCerpen, #SerialMalamMinggu, dsb'
+- name: images
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: images
 pages:
+- content/post/halo.md
 - content/post/tes.md
