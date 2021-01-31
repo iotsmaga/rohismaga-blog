@@ -26,4 +26,5 @@ fields:
   description: 'Sebagai tag untuk setiap seri post yang dibuat, misal Serial Serial
     #OneMinuteCerpen, #SerialMalamMinggu, dsb'
 pages:
+- content/post/halo.md
 - content/post/tes.md
