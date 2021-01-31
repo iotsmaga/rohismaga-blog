@@ -11,5 +11,19 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: images
+  type: file
+  config:
+    maxSize: 64
+  label: image
+  description: Show Image in Post
+  hidden: false
+- name: series
+  type: text
+  config:
+    required: false
+  label: series
+  description: 'Sebagai tag untuk setiap seri post yang dibuat, misal Serial Serial
+    #OneMinuteCerpen, #SerialMalamMinggu, dsb'
 pages:
 - content/post/tes.md
