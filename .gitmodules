@@ -3,5 +3,5 @@
 	url = https://github.com/wisnuwiry/personal-site.git
 
 [submodule "themes/personal-site"]
-	path = personal-site
+	path = themes/personal-site
 	url = https://github.com/wisnuwiry/personal-site.git
