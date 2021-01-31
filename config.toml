@@ -41,7 +41,7 @@ summaryLength                 = 10
   fb_app_id                   = "" # Your facebook app id
   customSearchId              = "004021659876411083349:a2ysxpichpc"
   endMessagePost              = "Semoga artikel ini bermanfaat. Jika terdapat kesalahan penulisan, typo, ataupun juga kurang sesuai dalam penulisan, bantu Saya"
-  editContentPageLink         = "https://github.com/wisnuwiry/blog-v2/edit/master/content/"
+  editContentPageLink         = "https://github.com/iotsmaga/rohismaga-blog/edit/master/content/"
   formspreeId                 = "mzbkwbkb"
   subTitle                    = "| Organisasi Islam di SMA Negeri 3 Semarang"
 
